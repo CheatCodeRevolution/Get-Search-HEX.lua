@@ -1,6 +1,6 @@
 gg.setVisible(false)
 gg.alert("────୨ৎ────────୨ৎ────\nScript By: CheatCode Revolution\nTelegram: @BadLuck_69\nYouTube: CheatCode Revolution\n────୨ৎ────────୨ৎ────")
-
+gg.setVisible(true)
 local gg = gg
 local ti = gg.getTargetInfo()
 local arch = ti.x64

@@ -1,3 +1,4 @@
+gg.setVisible(false)
 gg.alert("────୨ৎ────────୨ৎ────\nScript By: CheatCode Revolution\nTelegram: @BadLuck_69\nYouTube: CheatCode Revolution\n────୨ৎ────────୨ৎ────")
 
 local gg = gg
